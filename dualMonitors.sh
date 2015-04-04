@@ -16,7 +16,7 @@
 		while [ 1 = 1 ]; do
 			choose=`zenity --height=250 --width=400  \
 			--list \
-				--text="Co chcesz zrobic? \n\n" \
+				--text="What do you want to do? \n\n" \
 			--radiolist \
 				--title='Selection' \
 				--column=Boxes \
